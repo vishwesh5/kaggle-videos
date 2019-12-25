@@ -1,2 +1,5 @@
-# kaggle-reading-group
-Kaggle Reading Group (Video &amp; Paper list)
+# Kaggle Reading Group
+
+| --- | --- | --- |
+| S.No. | Paper | Video |
+| --- | --- | --- |
